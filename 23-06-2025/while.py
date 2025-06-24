@@ -16,5 +16,6 @@ while guess != secret:
     guess = int(input("Угадай число от 1 до 10: "))
     if guess == secret:
         print("Правильно! ")
+        break
     else:
         print("Попробуй ещё!")
