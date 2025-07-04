@@ -1,6 +1,5 @@
-# 🧙‍♂️ Final Day — Hero Battle with Random Names
 
-## 🧠 What I built:
+##  What I built:
 
 A full **turn-based battle game** using:
 
@@ -11,7 +10,7 @@ A full **turn-based battle game** using:
 - a battle loop with `while`
 - functions calling other functions
 
-## 🎯 Game Features:
+##  Game Features:
 
 - Two heroes get **random names** from a name list
 - Each hero has:
@@ -21,7 +20,7 @@ A full **turn-based battle game** using:
 - Game continues until one hero loses
 - Winner is shown at the end
 
-## 🧪 Code Preview:
+##  Code Preview:
 
 ```python
 names = ["Axel", "Blaze", "Nova", "Zara", "Orion", "Lyra", "Drake", "Kael"]
